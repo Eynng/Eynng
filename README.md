@@ -3,7 +3,7 @@
 * 🌍  I'm based in Pernambuco, Brazil
 * 💼  See my portfolio at : [Esdras Lira]()
 * ✉️  You can contact me at : [esdraslira2025@outlook.com](mailto:esdraslira2025@outlook.com)
-* 🔥   My main hard skills are : HTML / CSS / JS / GIT/GITHUB / AI / PS
+* 🔥   My main hard skills are : HTML / CSS / JS / GIT & GITHUB / AI / PS
 * 🧠  I'm learning JS & TypeScript
 
 <a href="https://www.github.com/eynng" target="_blank" rel="noreferrer"><img
