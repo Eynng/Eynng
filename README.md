@@ -14,6 +14,8 @@ src="https://img.shields.io/github/followers/Eynng?logo=github&style=for-the-bad
   <a rel= "stylesheet" type='text/css' href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="36" height="36" alt="HTML5"/></a>
   <a rel= "stylesheet" type='text/css' href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS3"/></a>
   <a rel= "stylesheet" type='text/css' href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="36" alt="JavaScript"/></a>
+  <a rel= "stylesheet" type='text/css' href="https://react.dev/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" alt="React"/></a>
   <a rel= "stylesheet" type='text/css' href="https://nodejs.org/pt" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="36" height="36" alt="Node.js"/></a>
   <a rel= "stylesheet" type='text/css' href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git"/></a>
   <a rel= "stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="36" height="36" alt="Photoshop"/></a>
