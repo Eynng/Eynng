@@ -4,7 +4,7 @@
 * 💼  See my portfolio at : [Esdras Lira]()
 * ✉️  You can contact me at : [esdraslira2025@outlook.com](mailto:esdraslira2025@outlook.com)
 * 🔥   My main hard skills are : HTML / CSS / JS / GIT & GITHUB / PS / AI
-* 🧠  I'm learning JavaScript & Node.JS
+* 🧠  I'm learning JavaScript, React & Node.JS
 
 <a href="https://www.github.com/eynng" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Eynng?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
